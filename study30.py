@@ -57,6 +57,7 @@ def find(key):
 						print('在文件%s中找到关键字%s\n在第%d行第%d位置'%(os.path.join(root,name),key,count,wz))
 					
 
+#
 				cc.close()
 os.chdir('E:\\New\\')
 key=input('输入关键字：')
